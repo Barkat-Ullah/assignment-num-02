@@ -394,15 +394,20 @@ nav {
         width: 95%;
         margin-left: 200px;
     }
+    .nav-item{
+        margin-bottom: 10px;
+    }
 
     .banner-content {
         flex-direction: column;
         margin: 10px;
         padding-top: 14px;
         padding-bottom: 12px;
-
     }
 
+    .banner-photo{
+        padding-left: 110px;
+    }
     .info {
         width: 100vh;
         margin: 10px;
